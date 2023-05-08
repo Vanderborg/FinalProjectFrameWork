@@ -10,5 +10,6 @@ public class LumaTest extends CommonAPI {
     public void signInTest(){
         HomePage home = new HomePage(getDriver());
         home.navigateToSignIn();
+
     }
 }
