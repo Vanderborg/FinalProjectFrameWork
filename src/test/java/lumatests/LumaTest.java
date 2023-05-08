@@ -1,8 +1,8 @@
-package refactorthistests;
+package lumatests;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import refactorthispages.HomePage;
+import lumapages.HomePage;
 
 public class LumaTest extends CommonAPI {
 

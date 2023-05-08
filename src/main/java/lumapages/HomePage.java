@@ -1,4 +1,4 @@
-package refactorthispages;
+package lumapages;
 
 import base.CommonAPI;
 import org.openqa.selenium.WebDriver;

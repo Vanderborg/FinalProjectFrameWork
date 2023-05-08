@@ -14,7 +14,7 @@
         <parameter name="url" value="https://magento.softwaretestingboard.com/"/>
 
         <classes>
-            <class name="refactorthistests.LumaTest"></class>
+            <class name="lumatests.LumaTest"></class>
         </classes>
 
     </test>
