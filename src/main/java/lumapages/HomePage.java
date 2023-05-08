@@ -15,7 +15,7 @@ public class HomePage extends CommonAPI {
         PageFactory.initElements(driver, this);
     }
 
-    public void navigateToSignIn(){
+    public void navigateToSignIn (){
         click(signInBttn);
     }
 
